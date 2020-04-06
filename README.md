@@ -1,2 +1,3 @@
 # BANKING-SYSTEM
-It's a Banking System, where YOU are able to perform some Banking Opertaions..
+It's a basic structure Banking System, where YOU are able to perform some Banking Opertaions..
+You CAn Change /edit The code as you wish... 
